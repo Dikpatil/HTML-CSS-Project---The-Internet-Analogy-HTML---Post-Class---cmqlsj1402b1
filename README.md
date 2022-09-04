@@ -1,2 +1,2 @@
 # html-css-js-project-boilerplate
-in this projet use html ,css and javascript.
+In this project use html ,css and javascript.
